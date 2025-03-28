@@ -136,7 +136,7 @@ export const activitiesAction: Action = {
                 modelClass: ModelClass.LARGE,
             });
 
-            await callback({ text: `Here's a summary of recent activities of ${retrieveActivitiesContent.account}:\n\n` + summary });
+            await callback({ text: summary });
         }
 
         return true;
