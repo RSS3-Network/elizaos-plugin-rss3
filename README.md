@@ -1,11 +1,11 @@
-# @rss3/elizaos-plugin
+# @elizaos-plugins/plugin-rss3
 
 A RSS3 plugin for ElizaOS.
 
 ## Installation
 
 ```bash
-pnpm add @rss3/elizaos-plugin
+pnpm add @elizaos-plugins/plugin-rss3
 ```
 
 ## Actions
